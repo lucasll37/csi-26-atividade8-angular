@@ -1,6 +1,7 @@
 {
   "name": "csi-26-atividade8-angular",
   "version": "0.0.0",
+  "homepage": "https://lucasll37.github.io/csi-26-atividade8-angular/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
